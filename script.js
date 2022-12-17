@@ -11,7 +11,7 @@ let messagepassworddiv=document.getElementById('messagepassword');
 //button.addEventListener("onclick",geek)
 emailInput.onchange=validate();
 passwordInput.onchange=validate();
-function geek()
+function seek()
 {
 
 let email=emailInput.value;
